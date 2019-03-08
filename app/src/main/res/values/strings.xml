@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Marvel Database</string>
+    <string name="error_while_loading">Error while loading</string>
+    <string name="appwidget_text">Marvel Db</string>
+    <string name="add_widget">Add widget</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="favorite_succeded">Modification succeded</string>
+    <string name="google_signed_in">Signed in </string>
+    <string name="google_signed_out">Signed out </string>
+    <string name="cd_context_menu_add_to_or_remove_from_favorites">Context menu, add to or remove from favorites</string>
+    <string name="cd_image_of_the_character">Image of the character</string>
+    <string name="cd_image_of">Image of</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="revoke_access">Revoke Access</string>
+    <string name="character_name_loading">Character Loading</string>
+    <string name="hero_name_thumbnail_loading">Hero Loading</string>
+    <string name="thumbnail_comic_name_loading">Comic name loading</string>
+    <string name="cd_appwidget_text">Marvel database appwidget</string>
+    <string name="widget_help">Add characters to favorites, to show pictures here</string>
+    <string name="default_search_word">Spider</string>
+    <string name="cd_image_of_the_comic">Image of the comic</string>
+    <string name="cd_search_character">Search field for comic book characters</string>
+</resources>

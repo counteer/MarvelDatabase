@@ -1,0 +1,29 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="MarvelTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/text_color_primary</item>
+        <item name="android:windowBackground">@color/mainBackgroundColor</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+
+    <style name="StandardInputText">
+        <item name="android:background">#FF0000</item>
+        <item name="android:textColor">@color/textColorPrimary</item>
+    </style>
+
+    <style name="contextMenu">
+        <item name="android:background">@drawable/textborder</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:textAlignment">textEnd</item>
+        <item name="android:layout_marginEnd">5dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+</resources>
